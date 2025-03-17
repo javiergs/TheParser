@@ -147,7 +147,7 @@ public class TheParser {
 	
 	private void error(int error) {
 		System.out.println("Error " + error +
-											 " at line " + tokens.get(currentToken));
+			" at line " + tokens.get(currentToken));
 		System.exit(1);
 	}
 	
