@@ -5,7 +5,7 @@ A Java-based parser that analyzes token sequences and constructs a syntax tree b
 ## Project Structure
 
 - `src/main/java`: Contains the Java source code.
-- `src/main/resources`: Contains the input text file `input.txt`.
+- `src/main/resources`: Contains a number of test cases
 - `pom.xml`: Maven configuration file.
 
 ## Prerequisites
